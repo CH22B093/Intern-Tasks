@@ -90,6 +90,7 @@ This code develops a multi-modal chatbot:
 
 ## Task 3
 This code develops Medical Q&A chatbot:
+
 1.Data Loading and Processing
   ->Recursively loads medical Q&A pairs from XML files
   ->Uses XML ElementTree for parsing
