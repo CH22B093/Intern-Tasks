@@ -1,5 +1,6 @@
 # Intern-Tasks
-##Task 1
+## Task 1
+
 1.Imports and Setup
 The code begins with essential imports for natural language processing and text analysis:
   Core NLP Libraries:
@@ -40,7 +41,7 @@ The system is designed for:
 ->Readability assessment
 ->Performance benchmarking
 
-##Task 2
+## Task 2
 1. Initial Configuration
 ->Page setup with custom title and layout
 ->API key configuration for Gemini models
@@ -85,7 +86,7 @@ The system is designed for:
 ->Context preservation
 ->Response synchronization
 
-##Task 3
+## Task 3
 1.Data Loading and Processing
   ->Recursively loads medical Q&A pairs from XML files
   ->Uses XML ElementTree for parsing
@@ -121,7 +122,7 @@ The system is designed for:
           Original question
           Most relevant answer
           
-##Task 4
+## Task 4
 This code implements a scientific paper search interface using the ArXiv dataset with these main components:
 
 1.Data Management
@@ -148,7 +149,7 @@ This code implements a scientific paper search interface using the ArXiv dataset
      Paper titles
      Authors
      
-##Task 5
+## Task 5
 This code implements a multilingual medical chatbot with the following key features:
 
 1.Multilingual Support
