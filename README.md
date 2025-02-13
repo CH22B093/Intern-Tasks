@@ -1,6 +1,7 @@
 # Intern-Tasks
 ## Task 1
 This code creates concise summaries of longer documents:
+
 1.Imports and Setup
 The code begins with essential imports for natural language processing and text analysis:
   Core NLP Libraries:
