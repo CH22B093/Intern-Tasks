@@ -1,6 +1,6 @@
 # Intern-Tasks
 ## Task 1
-
+This code creates concise summaries of longer documents:
 1.Imports and Setup
 The code begins with essential imports for natural language processing and text analysis:
   Core NLP Libraries:
@@ -42,6 +42,7 @@ The system is designed for:
 ->Performance benchmarking
 
 ## Task 2
+This code develops a multi-modal chatbot:
 1. Initial Configuration
 ->Page setup with custom title and layout
 ->API key configuration for Gemini models
@@ -87,6 +88,7 @@ The system is designed for:
 ->Response synchronization
 
 ## Task 3
+This code develops Medical Q&A chatbot:
 1.Data Loading and Processing
   ->Recursively loads medical Q&A pairs from XML files
   ->Uses XML ElementTree for parsing
